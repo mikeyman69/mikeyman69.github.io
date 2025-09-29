@@ -12,6 +12,8 @@ h1{
     color: #c6ff00;
     letter-spacing: 3px;
     font-family: monospace;
+    font: bold;
+    -webkit-text-stroke: 3px black;
 }
 
 .Pictures{
