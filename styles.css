@@ -74,8 +74,17 @@ box-shadow: 0 0 10px rgba(0,0,0,0,0.6);
 transition: 0.3s;
 }
 
+.buttons-wrapper{
+    max-width: 720px;
+    margin: 30px auto 0;
+}
 .Buttons a:hover{
     background-color: #222;
     color: #1e90ff;
 }
+
+.Buttons .home { 
+    background: #111; color:#c6ff00; padding: 15px 32px; 
+}
+
 
